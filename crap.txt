@@ -1,0 +1,11 @@
+permissions: 292057790464
+token: OTU5ODA1MDcxNDAxNTY2MjA4.YkhOIQ.8ud7lMPwqGsmT_up04Pcpq92qJA
+client_id: 959805071401566208
+
+
+https://discord.com/api/oauth2/authorize?client_id=959805071401566208&scope=bot&permissions=292057790464
+
+
+PROXY_ADDRESS=socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@amsterdam.nl.socks.nordhold.net:1080,socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@atlanta.us.socks.nordhold.net:1080,socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@dallas.us.socks.nordhold.net:1080,socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@los-angeles.us.socks.nordhold.net:1080,socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@nl.socks.nordhold.net:1080,socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@se.socks.nordhold.net:1080,socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@stockholm.se.socks.nordhold.net:1080,socks5://nK2P8Y5SoxxzjDN9ZAPJavFr:4AGykXyVzo9k4iedveT1emtV@us.socks.nordhold.net:1080
+PROXY_PROTOCOL=socks5
+PROXY_PORT=1080
